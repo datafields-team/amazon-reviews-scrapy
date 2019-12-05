@@ -109,7 +109,3 @@ MIT. See the LICENSE file for the copyright notice.
 [[1]](https://doc.scrapy.org/en/latest/) Scrapy Documentation
 
 [[2]](http://py-googletrans.readthedocs.io/en/latest/) GoogleTrans Documentation
-
-## Future Tasks
-- [ ] Create Multi-Language Support for Customer reviews.
-- [ ] Create a GUI for using the framework.
